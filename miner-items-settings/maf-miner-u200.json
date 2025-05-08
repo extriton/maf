@@ -1,0 +1,24 @@
+{
+    "code": "maf-miner-u200",
+    "name": "MAF MINER U200",
+    "description": "Uncommon miner Speed 0.12/h",
+    "image": "https://emerald-eldest-amphibian-320.mypinata.cloud/ipfs/QmS1oYsarajDLnM2aotCxXrWS1KmgrfjfABr2GvKf4qzHU",
+    "mint_limit": 1000,
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "miner"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "uncommon"
+        },
+        {
+            "trait_type": "Speed",
+            "value": 12
+        }
+    ],
+    "price_usd": 500,
+    "price_stars": 500,
+    "price_coins": 250
+}

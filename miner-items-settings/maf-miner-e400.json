@@ -1,0 +1,24 @@
+{
+    "code": "maf-miner-e400",
+    "name": "MAF MINER E400",
+    "description": "Epic miner Speed 0.5/h",
+    "image": "https://emerald-eldest-amphibian-320.mypinata.cloud/ipfs/QmRfb2HHC8b6n7Xg7cgrWVuXZW8H7pSPeTdmXrDKy5WXM3",
+    "mint_limit": 500,
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "miner"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "epic"
+        },
+        {
+            "trait_type": "Speed",
+            "value": 50
+        }
+    ],
+    "price_usd": 1500,
+    "price_stars": 1500,
+    "price_coins": 750
+}
