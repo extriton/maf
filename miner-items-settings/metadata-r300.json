@@ -1,0 +1,20 @@
+{
+    "name": "MAF MINER R300",
+    "description": "Rare miner Speed 0.25/h",
+    "image": "https://emerald-eldest-amphibian-320.mypinata.cloud/ipfs/QmcaJET7W1WE5GrQERzoiaR6imFbcq8bMn6QgiqVm2RefS",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "miner"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "rare"
+        },
+        {
+            "trait_type": "Speed",
+            "value": 25
+        }
+    ],
+    "marketplace": "getgems.io"
+}
